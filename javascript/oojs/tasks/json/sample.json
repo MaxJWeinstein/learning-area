@@ -38,6 +38,25 @@
     ]
   },
   {
+    "name" : "Rhonda",
+    "breed" : "Tabby",
+    "color" : "brown",
+    "kittens" : [
+      {
+        "name" : "Dan",
+        "gender" : "m"
+      },
+      {
+        "name" : "Sausage",
+        "gender" : "f"
+      },
+      {
+        "name" : "Karl",
+        "gender" : "m"
+      }
+    ]
+  },
+  {
     "name" : "Antonia",
     "breed" : "Ocicat",
     "color" : "leopard spotted",
